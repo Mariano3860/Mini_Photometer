@@ -16,7 +16,6 @@ Working demonstration with quick analysis:
 
 [![Watch the video](https://img.youtube.com/vi/FHEGwgIvmlc/maxresdefault.jpg)](https://youtu.be/FHEGwgIvmlc)
 
-
 Analysis of 2 different oil samples, 2 times each, to show consistency:
 <p align="center">
   <img src="/Photos-Video/Results.png" width="500" alt="Sample Results">
