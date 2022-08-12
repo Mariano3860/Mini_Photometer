@@ -12,7 +12,7 @@ Arduino photometer built with 3d printer and STM32 board.
 
 
 
-Working demonstration with quick analysis:
+Quick analysis demostration:
 
 [![Watch the video](https://img.youtube.com/vi/FHEGwgIvmlc/maxresdefault.jpg)](https://youtu.be/FHEGwgIvmlc)
 
